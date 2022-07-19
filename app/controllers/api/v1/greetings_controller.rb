@@ -1,8 +1,8 @@
 module Api::V1
   class GreetingsController < ApplicationController
     def index
-      @greetings = Greeting.all
-      render json: @greetings
+      @greeting = Greeting.find(rand(1..5))
+      render json: @greeting
     end
   end
 end
