@@ -1,24 +1,55 @@
-# README
+## Hello World - Rails-React  ##
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The main idea begind this project is to implement a connection between a Ruby on Rails back-end and React front-end.
+Understanding the pros and cons of different approaches of connecting Ruby on Rails back-end with React front-end.
 
-Things you may want to cover:
+Built With
 
-* Ruby version
+- Ruby
+- Ruby On Rails
+- Ruby Gems
+- PostgreSQL
+- React
+- React
 
-* System dependencies
+### Front-end
+- [Front-end](https://github.com/mateo951/hello-react-front-end)
 
-* Configuration
+### Prerequisites 📌
+- `Ruby`
+- `Ruby on Rails` 
+- `Ruby Gems` 
+- `PostgreSQL`
 
-* Database creation
+### Setup 🔂 
+- Clone the repository using this [GitHub](https://github.com/mateo951/hello-rails-back-end.git) link.
+- `cd` into the directory. 
 
-* Database initialization
+### Install ⚙️
+- Run `bundle install` && `npm install`
 
-* How to run the test suite
+### Database 💾
+- Run `rails db:create` to create the database.
+- Run `rails db:migrate` to create the tables.
+- Run `rails db:seed` to populate the tables.
 
-* Services (job queues, cache servers, search engines, etc.)
+### Usage 💻
+- Run `rails s` to start the server.
+  
+### Author ###
+👤 Mateo Villagómez<br>
+GitHub: [@mateo951](https://github.com/mateo951)<br>
+Twitter: [@MVGameDev](https://twitter.com/MVGameDev)<br>
+LinkedIn: [@Mateo Villagómez](https://www.linkedin.com/in/mateo-villagómez/)<br>
 
-* Deployment instructions
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
 
-* ...
+Feel free to check the [issues](https://github.com/mateo951/hello-rails-back-end/issues) page.
+
+Show your support
+Give a ⭐️ if you like this project!
+
+📝 License
+This project is MIT licensed.
+
